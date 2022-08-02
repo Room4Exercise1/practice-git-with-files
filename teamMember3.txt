@@ -1,0 +1,1 @@
+Member one is responsible for creating a remote repository. Member two is responsible for contributing files to the repository. Member three is responsible for writing a txt file for the agenda of the presentation. 
